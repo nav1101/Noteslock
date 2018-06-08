@@ -1,5 +1,5 @@
 package sp.voice.nita.noteslock;
-
+// this is java class for database handling .
 import android.content.ContentValues;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
